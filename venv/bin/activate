@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV=/home/administrador/Documentos/tratamento-imagens-ENEM/venv
+VIRTUAL_ENV=/tmp/guest-kbkv8w/Documentos/tratamento-imagens-ENEM/venv
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

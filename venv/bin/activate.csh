@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV /home/administrador/Documentos/tratamento-imagens-ENEM/venv
+setenv VIRTUAL_ENV /tmp/guest-kbkv8w/Documentos/tratamento-imagens-ENEM/venv
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/"bin":$PATH"

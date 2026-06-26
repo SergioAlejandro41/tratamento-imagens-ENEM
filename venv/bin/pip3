@@ -1,4 +1,4 @@
-#!/home/administrador/Documentos/tratamento-imagens-ENEM/venv/bin/python3
+#!/tmp/guest-kbkv8w/Documentos/tratamento-imagens-ENEM/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
